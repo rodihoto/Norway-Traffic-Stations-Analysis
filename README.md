@@ -1,5 +1,5 @@
 # Norway-Traffic-Stations-Analysis
-Project Description
+Project Description:
 The purpose of this analysis is to explore and visualize traffic station data from Statens Vegvesen (Norwegian Public Roads Administration). The dataset includes traffic station locations, opening hours, and contact information. Using Python, the project cleans and preprocesses the data, clusters traffic stations by geographic location, and visualizes the distribution across Norway. This analysis aims to provide insights into the spatial distribution of traffic stations, helping identify regional groupings and road coverage.
 
 Installation Instructions
